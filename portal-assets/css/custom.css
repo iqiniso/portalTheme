@@ -29,8 +29,21 @@
      margin-right: auto;
 }
 
-.nav-tume {
+.nav-tume .container a, .nav-tume {
   background-color: #35b4c9;
-  border-color: #00fff;
-  color:#ffffff
+  border-color: #00ffff;
+  color:#ffffff !important;
+}
+
+.btn-tumezela{
+	
+	color: #fff;
+background-color: #35b4c9;
+border-color: #35b4c9;
+	
+}
+
+h2 {
+	
+	color: #35b4c0;
 }
